@@ -16,7 +16,7 @@ const AuthLayout: React.FC<AuthLayoutProps> = ({
 }) => {
   return (
     <div className="grid grid-cols-5">
-      <div className="md:col-span-3 w-full h-screen bg-[url('images/bg-login.png')] bg-cover bg-center bg-no-repeat hidden md:block">
+      <div className="md:col-span-3 w-full h-screen bg-[url('./images/bg-login.png')] bg-cover bg-center bg-no-repeat hidden md:block">
         <div className="w-full h-full flex justify-center items-center bg-[#0D28A6] bg-opacity-50"></div>
       </div>
 

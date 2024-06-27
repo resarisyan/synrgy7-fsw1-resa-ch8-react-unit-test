@@ -31,9 +31,10 @@ const Header: React.FC<HeaderProps> = () => {
 
   useEffect(() => {
     if (apiRes.notification && apiRes.success) {
-      navigate('/login', {
-        state: { message: apiRes.message, type: 'success' },
-      });
+      // navigate('/login', {
+      //   state: { message: apiRes.message, type: 'success' },
+      // });
+      location.href = '/login';
     }
   }, [apiRes, dispatch, navigate]);
 

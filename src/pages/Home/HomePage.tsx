@@ -13,37 +13,37 @@ import Hero from '../../components/fragments/Home/Hero';
 
 const testimonials = [
   {
-    imgSrc: './public/images/person-1.png',
+    imgSrc: './images/person-1.png',
     rating: 5,
     review:
       'Saya sangat puas dengan layanan Binar Car Rental. Mobil yang saya sewa sangat nyaman dan bersih. Sopirnya juga sangat ramah dan profesional. Harga yang ditawarkan juga sangat terjangkau. Terima kasih Binar Car Rental.',
   },
   {
-    imgSrc: './public/images/person-2.png',
+    imgSrc: './images/person-2.png',
     rating: 5,
     review:
       'Saya sangat puas dengan layanan Binar Car Rental. Mobil yang saya sewa sangat nyaman dan bersih. Sopirnya juga sangat ramah dan profesional. Harga yang ditawarkan juga sangat terjangkau. Terima kasih Binar Car Rental.',
   },
   {
-    imgSrc: './public/images/person-1.png',
+    imgSrc: './images/person-1.png',
     rating: 5,
     review:
       'Saya sangat puas dengan layanan Binar Car Rental. Mobil yang saya sewa sangat nyaman dan bersih. Sopirnya juga sangat ramah dan profesional. Harga yang ditawarkan juga sangat terjangkau. Terima kasih Binar Car Rental.',
   },
   {
-    imgSrc: './public/images/person-2.png',
+    imgSrc: './images/person-2.png',
     rating: 5,
     review:
       'Saya sangat puas dengan layanan Binar Car Rental. Mobil yang saya sewa sangat nyaman dan bersih. Sopirnya juga sangat ramah dan profesional. Harga yang ditawarkan juga sangat terjangkau. Terima kasih Binar Car Rental.',
   },
   {
-    imgSrc: './public/images/person-1.png',
+    imgSrc: './images/person-1.png',
     rating: 5,
     review:
       'Saya sangat puas dengan layanan Binar Car Rental. Mobil yang saya sewa sangat nyaman dan bersih. Sopirnya juga sangat ramah dan profesional. Harga yang ditawarkan juga sangat terjangkau. Terima kasih Binar Car Rental.',
   },
   {
-    imgSrc: './public/images/person-2.png',
+    imgSrc: './images/person-2.png',
     rating: 5,
     review:
       'Saya sangat puas dengan layanan Binar Car Rental. Mobil yang saya sewa sangat nyaman dan bersih. Sopirnya juga sangat ramah dan profesional. Harga yang ditawarkan juga sangat terjangkau. Terima kasih Binar Car Rental.',

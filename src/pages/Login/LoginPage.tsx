@@ -36,7 +36,7 @@ const LoginPage: React.FC = () => {
   useEffect(() => {
     if (apiRes.notification) {
       if (apiRes.success) {
-        navigate('/');
+        location.href = '/';
       } else {
         enqueueSnackbar(`Error ${apiRes.code}: ${apiRes.message}`, {
           variant: 'error',
